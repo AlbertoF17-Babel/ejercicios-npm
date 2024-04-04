@@ -1,0 +1,15 @@
+{
+  "name": "ejercicios-npm",
+  "version": "1.0.0",
+  "description": "Crear proyecto con npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "loglevel": "^1.9.1",
+    "orm": "^7.0.0"
+  }
+}
