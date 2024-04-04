@@ -47,7 +47,8 @@ Ejecutar
 
     npm update
 
-Comprobar nuevas versiones en node_modules y package.json - Debe haber actualizado todos los paquetes desactualizados
+Comprobar nuevas versiones en node_modules y package.json 
+Pregunta: ¿Qué ha ocurrido?
 
 ## Ejercicio 6 - Actualización de dependencia a versión específica por línea de comandos
 
